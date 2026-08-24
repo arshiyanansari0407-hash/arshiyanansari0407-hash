@@ -1,0 +1,14 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "React.js",       "value": 85 },
+    { "label": "Node / Express", "value": 82 },
+    { "label": "MongoDB",        "value": 80 },
+    { "label": "JavaScript",     "value": 88 },
+    { "label": "REST APIs",      "value": 84 },
+    { "label": "REST APIs",      "value": 78 },
+    { "label":"Machine Learning","value": 70 },
+    { "label": "Python",         "value": 65 },
+    { "label": "DSA",            "value": 72 }
+  ]
+}

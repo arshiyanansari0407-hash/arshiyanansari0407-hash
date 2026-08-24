@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "repo": "TradingBot",
+      "description": "Automated trading bot built with Node.js and REST APIs for real-time market data monitoring and execution."
+    },
+    {
+      "repo": "subs-api-collection",
+      "description": "Comprehensive API collection and backend integration testing setup for handling subscription workflows."
+    },
+    {
+      "repo": "LocalRepo",
+      "description": "Local development repository housing core utility functions and full-stack component prototypes."
+    }
+  ]
+}
