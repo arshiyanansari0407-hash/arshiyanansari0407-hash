@@ -10,23 +10,15 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/arshiyanansari0407-hash">
-<<<<<<< HEAD
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
-=======
+
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Arshiyan+Ansari;Full-Stack+Dev;Software+Engineer;Python+AI+Developer;" alt="typing banner">
->>>>>>> 661c700 (Update typing banner)
 </a>
 
 <br>
 
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/arshiyan-ansari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<<<<<<< HEAD
-<a href="mailto:arshiyanansari0407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-=======
 <a href="arshiyanansari0407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
->>>>>>> 661c700 (Update typing banner)
-
 <img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
