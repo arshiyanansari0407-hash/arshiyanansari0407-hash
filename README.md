@@ -34,13 +34,12 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
-and I solve problems for fun when neither of those is cooperating.
+Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern specializing in the MERN stack and Python AI integration for web and mobile platforms.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Role **Software Engineering Intern working on full-stack web & mobile app development**
+- Currently building **AI-driven features using Python for Labaka (Private Repo)**
+- Learning **Advanced MERN Architecture + AI Model Integration**
+- Fun fact: **I build real-world apps where full-stack web dev meets Python AI**
 
 <br>
 
@@ -48,7 +47,7 @@ and I solve problems for fun when neither of those is cooperating.
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,tailwind,postgres,mongodb,jwt,oauth,git,github,vscode,html,css&perline=11" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,mui,jwt,oauth,git,github,vscode,html,css,postman&perline=7a" alt="tech stack">
 
 </div>
 
