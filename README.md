@@ -9,18 +9,15 @@
 <br>
 
 <!-- NAME / TAGLINE - animated typing -->
-<a href="https://github.com/gargibhardwaj24">
+<a href="https://github.com/arshiyanansari0407-hash">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Gargi+Bhardwaj;Machine+Learning+%26+Web+Dev;Competitive+Programmer;01100011+01101111+01100100+01100101" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS -->
-<a href="https://linkedin.com/in/gargibhardwaj24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:gargibhardwaj2430@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://dossier-iota-one.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://codeforces.com/profile/gargibhardwaj24"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://leetcode.com/u/gargibhardwaj24"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+<a href="https://www.linkedin.com/in/arshiyan-ansari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:arshiyanansari0407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 <img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -37,7 +34,7 @@ $ cat about.txt
 Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern specializing in the MERN stack and Python AI integration for web and mobile platforms.
 
 - Role **Software Engineering Intern working on full-stack web & mobile app development**
-- Currently building **AI-driven features using Python for Labaka (Private Repo)**
+- Currently building **AI-driven features using Python for 369innovation (Private Repo)**
 - Learning **Advanced MERN Architecture + AI Model Integration**
 - Fun fact: **I build real-world apps where full-stack web dev meets Python AI**
 
@@ -140,7 +137,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/dossier">
+  <a href="https://github.com/arshiyanansari0407-hash/dossier">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
@@ -149,7 +146,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Sage">
+  <a href="https://github.com/arshiyanansari0407-hash/Sage">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
@@ -160,7 +157,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/Socrates">
+  <a href="https://github.com/arshiyanansari0407-hash/Socrates">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Socrates-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-Socrates-light.svg">
@@ -169,7 +166,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/gargibhardwaj24/humanOS">
+  <a href="https://github.com/arshiyanansari0407-hash/humanOS">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-humanOS-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-humanOS-light.svg">
