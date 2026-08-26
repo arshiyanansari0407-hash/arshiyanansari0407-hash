@@ -42,9 +42,9 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 
 <div align="center">
 
-## `~/` toolbox
+## ~/ toolbox
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,mui,jwt,oauth,git,github,vscode,html,css,postman&perline=7a" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,html,css,mui,git,github,vscode,postman&perline=7" alt="tech stack">
 
 </div>
 
@@ -137,25 +137,26 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/dossier">
+  <a href="https://github.com/arshiyanansari0407-hash/TradingBot">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-dossier-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-dossier-light.svg">
-      <img src="assets/card-dossier-dark.svg" width="420" alt="dossier">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TradingBot-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-TradingBot-light.svg">
+      <img src="assets/card-TradingBot-dark" width="420" alt="dossier">
     </picture>
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/Sage">
+  <a href="https://github.com/arshiyanansari0407-hash/LocalRepo">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Sage-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-Sage-light.svg">
-      <img src="assets/card-Sage-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-LocalRepo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-LocalRepo-light.svg">
+      <img src="assets/card-LocalRepo-dark.svg" width="420" alt="Sage">
     </picture>
   </a>
 </td>
 </tr>
 <tr>
+<!--
 <td width="50%">
   <a href="https://github.com/arshiyanansari0407-hash/Socrates">
     <picture>
@@ -174,20 +175,21 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
     </picture>
   </a>
 </td>
-</tr>
+</tr>-->
 </table>
-
+<!--
 <sub>
-
+<
 | project | live | stack |
 |---|---|---|
-| **[dossier](https://github.com/gargibhardwaj24/dossier)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `JavaScript` `GSAP` `Lenis` |
-| **[Sage](https://github.com/gargibhardwaj24/Sage)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
+| **[TradingBot](https://github.com/arshiyanansari0407-hash/TradingBot)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `Python` `AI` `Trading` |
+| **[LocalRepo](https://github.com/arshiyanansari0407-hash/LocalRepo)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
+<
 | **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
 | **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
-
+<
 </sub>
-
+-->
 </div>
 
 ---
