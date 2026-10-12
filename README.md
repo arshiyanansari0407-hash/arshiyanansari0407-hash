@@ -142,7 +142,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering specializin
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/Plywood-Fullstack">
+  <a href="https://github.com/arshiyanansari0407-hash/TradingBot">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TradingBot-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-TradingBot-light.svg">
@@ -151,11 +151,11 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering specializin
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/TradingBot">
+  <a href="https://github.com/arshiyanansari0407-hash/Plywood-Fullstack">
     <picture>
-      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-LocalRepo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-LocalRepo-light.svg">
-      <img src="assets/card-LocalRepo-dark.svg" width="420" alt="Sage">
+      <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Fullstack-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Fullstack-light.svg">
+      <img src="assets/card-Fullstack-dark.svg" width="420" alt="Sage">
     </picture>
   </a>
 </td>

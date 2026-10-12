@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="150" viewBox="0 0 420 150" fill="none">
+  <rect width="420" height="150" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  
+  <!-- Repository Icon -->
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M25 28C25 26.8954 25.8954 26 27 26H35C36.1046 26 37 26.8954 37 28V42C37 43.1046 36.1046 44 35 44H27C25.8954 44 25 43.1046 25 42V28ZM27 28V42H35V28H27Z" fill="#1a7f37"/>
+  <path fill-rule="evenodd" clip-rule="evenodd" d="M29 30H33V32H29V30ZM29 34H33V36H29V34Z" fill="#1a7f37"/>
+
+  <!-- Title -->
+  <text x="45" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a7f37">Plywood-Fullstack</text>
+
+  <!-- Description -->
+  <text x="25" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">
+    <tspan x="25" dy="0">Full-stack e-commerce management platform built for Naaz</tspan>
+    <tspan x="25" dy="18">Plywoods, featuring inventory control &amp; live sales metrics.</tspan>
+  </text>
+
+  <!-- Primary Language Indicator -->
+  <circle cx="30" cy="120" r="5" fill="#f1e05a"/>
+  <text x="42" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">JavaScript</text>
+
+  <!-- Stars Icon & Count -->
+  <path d="M120 115.5L121.5 118.5L125 119L122.5 121.5L123 125L120 123.25L117 125L117.5 121.5L115 119L118.5 118.5L120 115.5Z" fill="#57606a"/>
+  <text x="130" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">0</text>
+
+  <!-- Forks Icon & Count -->
+  <path d="M150 116C149.448 116 149 116.448 149 117C149 117.379 149.211 117.708 149.522 117.882C149.192 118.667 148.5 119.5 147 120C146.5 119.5 145.8 119 145 119C143.895 119 143 119.895 143 121C143 122.105 143.895 123 145 123C145.8 123 146.5 122.5 147 122C148.8 121.4 150 120 150.5 118.82C150.8 118.94 151.1 119 151.5 119C152.3 119 153 118.3 153 117.5V117C153 116.448 152.552 116 152 116H150Z" fill="#57606a"/>
+  <text x="160" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#57606a">0</text>
+</svg>
