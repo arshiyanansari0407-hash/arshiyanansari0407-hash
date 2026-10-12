@@ -185,11 +185,12 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering specializin
 
 <sub>
 <
+
 | project | live | stack |
 |---|---|---|
 | **[Plywood Fullstack](https://github.com/arshiyanansari0407-hash/Plywood-Fullstack)** | [sage-calendar.vercel.app](https://plywood-fullstack.vercel.app/) | `JavaScript` `React` `Node.js` `Express` `MongoDB` |
 | **[TradingBot](https://github.com/arshiyanansari0407-hash/TradingBot)**  | `Python` `AI` `Trading` |
+
 <
 </sub>
 
-</div>
