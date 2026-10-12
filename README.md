@@ -183,14 +183,24 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering specializin
 </tr>-->
 </table>
 
-<sub>
-<
-
-| project | live | stack |
-|---|---|---|
-| **[Plywood Fullstack](https://github.com/arshiyanansari0407-hash/Plywood-Fullstack)** | [sage-calendar.vercel.app](https://plywood-fullstack.vercel.app/) | `JavaScript` `React` `Node.js` `Express` `MongoDB` |
-| **[TradingBot](https://github.com/arshiyanansari0407-hash/TradingBot)**  | `Python` `AI` `Trading` |
-
-<
-</sub>
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">Project</th>
+      <th align="left" width="35%">Live</th>
+      <th align="left" width="35%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/arshiyanansari0407-hash/Plywood-Fullstack">Plywood Fullstack</a></b></td>
+      <td><a href="https://plywood-fullstack.vercel.app/">plywood-fullstack.vercel.app</a></td>
+      <td><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/arshiyanansari0407-hash/TradingBot">TradingBot</a></b></td>
+      <td><a href="">dossier-iota-one.vercel.app</a></td>
+      <td><code>Python</code> <code>AI</code> <code>Trading</code></td>
+    </tr>
+  </tbody>
+</table>
