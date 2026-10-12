@@ -3,12 +3,11 @@
   "axes": [
     { "label": "React.js",       "value": 85 },
     { "label": "Node / Express", "value": 82 },
-    { "label": "MongoDB",        "value": 80 },
+    { "label": "MongoDB",        "value": 90 },
     { "label": "JavaScript",     "value": 88 },
-    { "label": "REST APIs",      "value": 84 },
-    { "label": "REST APIs",      "value": 78 },
+    { "label": "REST APIs",      "value": 95 },
     { "label":"Machine Learning","value": 70 },
-    { "label": "Python",         "value": 65 },
-    { "label": "DSA",            "value": 72 }
+    { "label": "Python",         "value": 80 },
+    { "label": "DSA",            "value": 75 }
   ]
 }

@@ -11,7 +11,7 @@
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/arshiyanansari0407-hash">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Arshiyan+Ansari;Full-Stack+Dev;Software+Engineer;Python+AI+Developer;" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Arshiyan+Ansari;Full-Stack+Dev;Junior+Software+Engineer;Python+AI+Developer;" alt="typing banner">
 </a>
 
 <br>
@@ -19,32 +19,37 @@
 <!-- SOCIALS -->
 <a href="https://www.linkedin.com/in/arshiyan-ansari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="arshiyanansari0407@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=gargibhardwaj24&style=flat&color=39d353&label=profile+views" alt="profile views">
+<img src="https://github.com/arshiyanansari0407-hash" alt="profile views">
 
 </div>
 
 ---
 
-## `~/` whoami
+## `` Who am I 
 
 ```console
-$ cat about.txt
+Intro
 ```
 
-Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern specializing in the MERN stack and Python AI integration for web and mobile platforms.
+Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering specializing in the MERN stack, JavaScript/TypeScript and Python AI integration for web and mobile platforms.
 
-- Role **Software Engineering Intern working on full-stack web & mobile app development**
-- Currently building **AI-driven features using Python for 369innovation (Private Repo)**
+- Role **Full-Stack Developer | Junior Software Developer**
+- Experience **Completed a Software Engineering internship at 369innovation,contributing to full-stack web and mobile application development.**
+- Backend Development **Built 15+ RESTful APIs using Node.js and Express.js, implementing JWT authentication, request validation, middleware, and API security.**
+- Database & Security: **Worked with MongoDB, Mongoose, MySQL, authentication, and access control for 3 user roles.**
+- AI Engineering **Developing my knowledge of Python, AI Engineering, LLM integration, and prompt engineering through coursework and practical learning.**
+- Projects **Built a full-stack eCommerce and factory order management application featuring 13+ REST APIs and 9 responsive pages.**
+- Teamwork **Collaborated with a 4-developer team and resolved 30+ application bugs.**
 - Learning **Advanced MERN Architecture + AI Model Integration**
-- Fun fact: **I build real-world apps where full-stack web dev meets Python AI**
+- Fun fact **I enjoy turning ideas into practical applications and continuously learning new technologies.**
 
 <br>
 
 <div align="center">
 
-## ~/ toolbox
+## Toolbox
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,html,css,mui,git,github,vscode,postman&perline=7" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,py,html,css,tailwind,mui,redis,git,github,vscode,postman&perline=9" alt="tech stack">
 
 </div>
 
@@ -52,7 +57,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 
 <div align="center">
 
-## `~/` skill radar
+## Skill radar
 
 <table>
 <tr>
@@ -85,7 +90,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 
 <div align="center">
 
-## `~/` contribution calendar
+## Contribution calendar
 
 <!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
 <img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
@@ -93,10 +98,10 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 <br><br>
 
 <!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/gargibhardwaj24/gargibhardwaj24/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+<picture> 
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/arshiyanansari0407-hash/arshiyanansari0407-hash/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arshiyanansari0407-hash/arshiyanansari0407-hash/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/arshiyanansari0407-hash/arshiyanansari0407-hash/output/snake.svg" width="100%" alt="snake eating the contribution graph">
 </picture>
 
 </div>
@@ -105,7 +110,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 
 <div align="center">
 
-## `~/` the numbers
+## The numbers
 
 <!-- Generated by scripts/cards.py into this repo. Deliberately NOT
      github-readme-stats / streak-stats / github-profile-trophy: those are
@@ -130,14 +135,14 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 
 <div align="center">
 
-## `~/` selected work
+## Selected work
 
 <!-- Cards generated by scripts/cards.py from assets/projects.json.
      Stars, forks and language are pulled live from the API on every run. -->
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/TradingBot">
+  <a href="https://github.com/arshiyanansari0407-hash/Plywood-Fullstack">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TradingBot-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-TradingBot-light.svg">
@@ -146,7 +151,7 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/arshiyanansari0407-hash/LocalRepo">
+  <a href="https://github.com/arshiyanansari0407-hash/TradingBot">
     <picture>
       <source media="(prefers-color-scheme: dark)"  srcset="assets/card-LocalRepo-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="assets/card-LocalRepo-light.svg">
@@ -177,25 +182,14 @@ Hi, I'm Arshiyan Ansari. Full-Stack Developer & Software Engineering Intern spec
 </td>
 </tr>-->
 </table>
-<!--
+
 <sub>
 <
 | project | live | stack |
 |---|---|---|
-| **[TradingBot](https://github.com/arshiyanansari0407-hash/TradingBot)** | [dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app) | `Python` `AI` `Trading` |
-| **[LocalRepo](https://github.com/arshiyanansari0407-hash/LocalRepo)** | [sage-calendar.vercel.app](https://sage-calendar.vercel.app) | `JavaScript` |
-<
-| **[Socrates](https://github.com/gargibhardwaj24/Socrates)** | [socrates-one-coral.vercel.app](https://socrates-one-coral.vercel.app) | `Next.js` `Prisma` `TypeScript` |
-| **[humanOS](https://github.com/gargibhardwaj24/humanOS)** | [human-os-two.vercel.app](https://human-os-two.vercel.app) | `JavaScript` `Gemini` |
+| **[Plywood Fullstack](https://github.com/arshiyanansari0407-hash/Plywood-Fullstack)** | [sage-calendar.vercel.app](https://plywood-fullstack.vercel.app/) | `JavaScript` `React` `Node.js` `Express` `MongoDB` |
+| **[TradingBot](https://github.com/arshiyanansari0407-hash/TradingBot)**  | `Python` `AI` `Trading` |
 <
 </sub>
--->
-</div>
-
----
-
-<div align="center">
-
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
